@@ -28,3 +28,14 @@
 ![/highest-gpa 3 - Before](./images/before-3-3.jpg)
 
 ![/highest-gpa 4 - Before](./images/before-3-4.jpg)
+
+Using Command Line:
+
+/all-students before profiling.
+![/all-students cli - Before](./images/before-cli-1.jpg)
+
+/all-student-name before profiling.
+![/all-student-name cli - Before](./images/before-cli-2.jpg)
+
+/highest-gpa before profiling.
+![/highest-gpa cli - Before](./images/before-cli-3.jpg)
