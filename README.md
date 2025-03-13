@@ -32,10 +32,10 @@
 Using Command Line:
 
 /all-students before profiling.
-![/all-students cli - Before](./images/before-cli-1.jpg)
+![/all-students CLI - Before](./images/before-cli-1.jpg)
 
 /all-student-name before profiling.
-![/all-student-name cli - Before](./images/before-cli-2.jpg)
+![/all-student-name CLI - Before](./images/before-cli-2.jpg)
 
 /highest-gpa before profiling.
-![/highest-gpa cli - Before](./images/before-cli-3.jpg)
+![/highest-gpa CLI - Before](./images/before-cli-3.jpg)
